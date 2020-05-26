@@ -1,0 +1,16 @@
+.Order {
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 16px;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 5px;
+    margin: 5px auto;
+    box-sizing: border-box;
+    background-color: rgb(87, 143, 228);
+}
+
+
+.ordercontainer {
+    background-color: white;
+}
+
