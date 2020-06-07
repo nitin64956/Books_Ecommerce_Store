@@ -9,6 +9,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
+    "react-desktop-notification": "^1.0.9",
     "react-dom": "^16.13.1",
     "react-pagination-library": "^0.1.14",
     "react-paypal-express-checkout": "^1.0.5",
