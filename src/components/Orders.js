@@ -36,7 +36,7 @@ class orders extends Component {
       }
       
     render() {
-        let array = this.state.fetchedOrderssort((a,b) => a.date >= b.date);
+        let array = this.state.fetchedOrders.sort((a,b) => a.date >= b.date);
         
     return (
         <div className = "ordercontainer">
